@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
+global.vcardowner = ['+94768658400'] // owner number
 global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
@@ -47,13 +47,148 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
+global.owner = ['+94768658400']
+global.ownertag = '+94768658400' //your tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "yC5bKafwG1aDs7KuGGzaqF1cbKPl60r+9MzYqXxRUFk="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "qI0oqqQ7zvnLyjJ1y9xXKweMiCCkBRI25McxhDr3VhA="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "UFXHoDzRLUEi4dLmV5VS0PQOZ9dupYwdUf0ny/TFb2g="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "3ta8Qf+cWXEA+OuidXkbt3rG2YQlIVQPUOr2ysEq+TM="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "IOeL9QhNS96JGSJ13XwUDc1YoMSaqBsY3GfJBpy3C1I="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "0m+7Fh+UdP+hFRRexRN/+iGtnR7CBMJvDQbgoeeUGDM="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "WaFRdin41W1jiS/9SrdGPlsOs/IQ4mOWFB6HEDpv+nRbWw1ai0N8T4OBA/wi3hz8LX9VkEG6z54MQI+Os+wPBQ=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 25,
+    "advSecretKey": "PzPGNZ+G9aE+MtQg8AfJg3MjtBARrMzINCuHZ8vXrDY=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CInP9wEQkc3ymwYYAQ==",
+      "accountSignatureKey": "ZnOIpLe9wpPNpKZI2yB+UrPvzzJOOKVLvw1U6NRWN1g=",
+      "accountSignature": "FTpqaK/M/11BCgoGHbI9QzBG8N4/E3lOEJ+9Tzr4H3Z9ab8O/3VkXKq+KcUjg9uv/LUbLKWOqFkANIn5BBXbCA==",
+      "deviceSignature": "HMCvAxH3mqRGD2wrGW0EhOwLx2Ctc6Zfbx35iumYfHgttct3jT7srKM+zblo9JxWTZXOUUae3GuUIZ1BmK0eBg=="
+    },
+    "me": {
+      "id": "94721410854:2@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "nipun jayanath"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "94721410854:2@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BWZziKS3vcKTzaSmSNsgflKz788yTjilS78NVOjUVjdY"
+        }
+      }
+    ],
+    "lastAccountSyncTimestamp": 1669113492,
+    "myAppStateKeyId": "AAAAAFWG"
+  },
+  "keys": {
+    "preKeys": {
+      "1": {
+        "private": {
+          "type": "Buffer",
+          "data": "qDJQDXVVGpoFKZzNOa8cI4vG6RXUG/Ehc6DWoO2dgnM="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "XWjJwhZ0mPhmnZKZQS8xOTywnX2AILxnZi6hsrYXSWg="
+        }
+      },
+      "2": {
+        "private": {
+          "type": "Buffer",
+          "data": "cH4PaX33CtsKjmRwNOnUJ3ebh9GfFDzGIF+rPRw/EEE="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "Ky9XHjCkNFOM5ldp+LCYOBUrKk9LgsEVRaw9pjN86EY="
+        }
+      },
+      "3": {
+        "private": {
+          "type": "Buffer",
+          "data": "ABpCdQa7wy62XJHyN9BJSaTPEg7+MYJ8dTbFLZGWQkg="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "S3LET+At2EnPpnPH76P0AsHAFbkz5S+jTMf1aoQXTwQ="
+        }
+      },
+      "4": {
+        "private": {
+          "type": "Buffer",
+          "data": "KEeJtgpHOBKdYJiyLP+ZVYJwSha7RPEFwAYewd6HPn4="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "lEKp4wtF7iVqnNTCMLkdbppvIo0wb+fcL8+y4R9j7ns="
+        }
+      },
+      "5": {
+        "private": {
+          "type": "Buffer",
+          "data": "2C6VUk/mCbgvzb7R91gMrZNI4QtIcciCogMSQFQ7SEY="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "/WnlizqOjDyax0T5u4cz2iE1CQHPOU60lLxFtTPJoB4="
+        }
+      },
+      "6": {
+        "private": {
+          "type": "Buffer",
+          "data": "2E4dQdjETTuXmeYB46kXjPKDSM+TREP+yMPwRuXA80c="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "tKcJZseWDgfldupwI0NMUYIR68lqc9Icxe7+Js7+tDE="
+        }
+      },
+      "7": {
+        "private": {
+          "type": "Buffer",
+          "data": "+CfMNDDHc5iDtGeB7CRa7KBTq2u3+ODgMC2F0iJ1DkE="
 
 //database
 global.premium = ['+380944814219'] //ur premium numbers
